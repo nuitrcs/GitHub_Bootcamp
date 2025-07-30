@@ -2,4 +2,4 @@
 
 Welcome to the RCDS bootcamp!!!
 
-David's change 
+"vi is by no means human-friendly" 
